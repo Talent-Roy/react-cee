@@ -1,6 +1,6 @@
 {
-  "name": "react-cee",
-  "version": "1.0.0",
+  "name": "react-ceelog",
+  "version": "1.0.1",
   "description": "Integrate cee logistics to your online store for swift and seamless delivery when ever an order comes in.",
   "main": "index.js",
   "scripts": {
