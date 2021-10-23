@@ -1,0 +1,16 @@
+{
+  "name": "react-cee",
+  "version": "1.0.0",
+  "description": "Integrate cee logistics to your online store for swift and seamless delivery when ever an order comes in.",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js",
+    "test": "test.js"
+  },
+  "author": "talent roy",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "react": "^17.0.2"
+  }
+}
